@@ -3,7 +3,7 @@ const Header = () => {
     <>
       <section className="">
         <div className="w-full h-14 bg-green-600 flex shadow-sm ">
-          <h1 className="self-center pl-3 text-md text-white font-semibold">
+          <h1 className="self-center pl-4 text-sm text-white font-semibold">
             WhatsApp Business
           </h1>
           <div className="ml-auto flex items-center mr-3 gap-2">

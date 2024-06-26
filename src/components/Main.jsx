@@ -3,7 +3,7 @@ export default function Main() {
     <>
       <section>
         <div className="container">
-          <div className="flex mx-4 mt-3">
+          <div className="w-full flex px-4 mt-3 hover:bg-slate-200 transition duration-100">
             <div>
               <div className="rounded-full w-14 h-14 bg-sky-500"></div>
             </div>
@@ -43,7 +43,7 @@ export default function Main() {
               </span>
             </div>
           </div>
-          <div className="flex mx-4 mt-3">
+          <div className="w-full flex px-4 mt-3 hover:bg-slate-200 transition duration-100">
             <div>
               <div className="rounded-full w-14 h-14 bg-pink-500"></div>
             </div>
